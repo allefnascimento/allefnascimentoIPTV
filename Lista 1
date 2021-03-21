@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="Globo TV",Globo TV Rio HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
