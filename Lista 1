@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-id="Globo TV Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="Globo TV",Globo TV Rio HD
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="Tv Aberta",Globo RJ HD
 http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio HD [Alter]" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="Tv Aberta",Globo RJ HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOBO_RJ_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SBT Rio HD" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="Tv Aberta",SBT RJ HD
+http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SBT HD" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT HD
+http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
